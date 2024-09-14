@@ -1,0 +1,1 @@
+sudo rpm -ivh RPMS/x86_64/*.rpm
